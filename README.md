@@ -4,7 +4,7 @@
 
 Make https://github.com/rsimai/arduino-stepper move towards faces
 
-Make sure nothing like OBS blocks the capture device or not to have any emulated devices
+Make sure nothing like OBS blocks the capture device and not to have any emulated devices
 
 ## Usage
 - start main.py
