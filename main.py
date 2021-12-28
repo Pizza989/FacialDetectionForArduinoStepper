@@ -44,7 +44,6 @@ while True:
             ser.write("d".encode())
 
     # if escape is pressed release camera and exit
-    k = cv2.waitKey(30)
-    if k == 27:
+    if cv2.waitKey(30) == 27:
         cap.release()
         sys.exit()
