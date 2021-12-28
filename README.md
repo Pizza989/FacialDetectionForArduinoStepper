@@ -11,5 +11,7 @@ Unfortunately open-cv is sometimes not able to capture a camera by its index, I 
 
 # Dependencies
 Open-cv: https://github.com/opencv/opencv
+
 VideoCaptureDevice
+
 Aruino at /dev/ttyACM0 running aruino-stepper script
