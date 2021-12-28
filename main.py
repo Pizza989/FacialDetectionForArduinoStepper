@@ -6,7 +6,7 @@ import serial
 from cv2 import cv2
 
 # Initialize connection to arduino
-ser = serial.Serial("/etc/ttyACM0", baudrate=9600)
+ser = serial.Serial("/dev/ttyACM0", baudrate=9600)
 
 # Initialize face cascade
 cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
