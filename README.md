@@ -4,7 +4,7 @@
 
 Make https://github.com/rsimai/arduino-stepper move towards faces
 
-Unfortunately open-cv is sometimes not able to capture a camera by its index, I can't figure out why.
+Make sure nothing like OBS blocks the capture device or not to have any emulated devices
 
 ## Usage
 - start main.py
